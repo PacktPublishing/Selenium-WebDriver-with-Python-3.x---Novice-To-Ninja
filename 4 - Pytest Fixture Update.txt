@@ -1,0 +1,9 @@
+Pytest Fixture Update
+
+
+After pytest version 2.10, you do not need @pytest.yield_fixture explicitly to use yield.
+The default @pytest.fixture also supports yield.
+It means the code will work if you are using @pytest.yield_fixture or @pytest.fixture.
+
+Please refer to this website for more details:
+http://doc.pytest.org/en/latest/fixture.html
