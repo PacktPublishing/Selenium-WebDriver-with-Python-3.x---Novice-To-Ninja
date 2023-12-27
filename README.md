@@ -1,5 +1,5 @@
 
 
 
-# Selenium-WebDriver-with-Python-3.x---Novice-To-Ninja
-Selenium WebDriver with Python 3.x - Novice To Ninja, by Packt Publishing
+# Selenium WebDriver 4 with Python - Zero To Hero---Novice-To-Ninja
+Selenium WebDriver 4 with Python - Zero To Hero, by Packt Publishing
